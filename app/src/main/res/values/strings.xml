@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TPDM_U1_Ejercicio1</string>
+    <string name="hello_world">Hello world!</string>
+	<string-array name="estado">
+		<item>Soltero</item>
+		<item>Casado</item>
+	</string-array>
+	<string-array name="ocupacion">
+		<item>Ventas</item>
+		<item>Informatíca</item>
+		<item>Jardineria</item>
+	</string-array>
+</resources>
